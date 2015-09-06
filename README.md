@@ -1,4 +1,12 @@
-This is your new Play application
-=================================
+# Play CORSFilter Sample Application
 
-This file will be packaged with your application, when using `activator dist`.
+## Usage Front App 
+
+```
+$ cd front-app
+$ ./server.sh
+```
+
+# References
+
+https://www.playframework.com/documentation/2.4.x/CorsFilter
